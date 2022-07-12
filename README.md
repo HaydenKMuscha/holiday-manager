@@ -9,8 +9,9 @@ This project was written in Python 3.9 and that is the reccommended version for 
 The View Holidays and Exit parts of the interaactivity currently are not functional. I was unable to find the root errors therein prior submission.
 The weather function of the assessment was also not completed.
 I anticipate losing points there.
+I also believe the json that is being created is not formatted in the style that is desired.
 
-#Inlcuded:
+# Inlcuded:
 
 There is a .gitignore that ignores the config file. Though the file itself lacks sensitive information without there being an api key.
 
